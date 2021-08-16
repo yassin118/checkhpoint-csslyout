@@ -1,0 +1,210 @@
+h1 {
+    color: #00b39b;
+    margin-left: 200px;
+}
+li {
+    margin-top: 20px ;
+    display: inline ;
+    margin-left: 200px;
+    color: gray;
+    margin-bottom: 20px;
+   
+    
+}
+ul{
+    margin-bottom: 20px ;
+    justify-content: space-between;
+    
+}
+.nav {
+    
+    display: flex;
+}
+.ok {
+    margin-top: 50px ;
+    display: flex;
+    justify-content: center;
+}
+.yes {
+    margin-top: 30px ;
+    display: flex;
+    justify-content: center;
+}
+
+.carte {
+    padding-left: 2%;
+    color: white;
+    background-color: rgb(61, 61, 61);
+    width: 20%;
+    height: 250px; 
+    border-radius: 10%;  
+    font-family: Work Sans,Arial,sans-serif;
+    margin-right: 20px; 
+}
+.carte2 {
+    padding-left: 2%;
+    color: white;
+    background-color: rgb(112, 112, 247);
+    width: 20%;
+    height: 250px;
+    border-radius: 10%;
+    font-family: Work Sans,Arial,sans-serif;
+    
+}
+.carte3 {
+    padding-left: 2%;
+    color: white;
+    background-color:#00b39b;
+    width: 20%;
+    height: 250px;
+    border-radius: 10%;
+    font-family: Work Sans,Arial,sans-serif;
+    
+}
+.lescartes {
+    margin-top: 50px ;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+   
+}
+p {
+    margin-top: 5%;
+    color: #00b39b;
+    margin-right: 50px;
+}
+.yes{
+    display:flexbox
+;
+}
+svg {
+    color: gray;
+    margin-top: 30px;
+}
+.partie {
+    display: flex;
+    background-color: #89bbb4;;
+    height: 700px;
+    width: 100%;
+}
+.partie h2 {
+    margin-top: 40px;
+margin-left:180px;
+color: #00b39b;
+}
+.partie h4 {
+    margin-left:180px;
+    color:rgb(99, 98, 98);
+    margin-bottom: 180px;
+}
+.info1  {
+    background-color: rgb(179, 179, 179));
+    width: 20%;
+    height: 250px; 
+    background: #fff;
+    border-radius: 5px;
+    text-align: center;
+        }  
+        .info2  {
+            background: #fff;
+    border-radius: 5px;
+    
+            background-color: rgb(179, 179, 179));
+            width: 20%;
+            height: 250px; 
+            text-align: center;
+                }  
+                .info3  {
+                    background: #fff;
+    border-radius: 5px;
+    
+                    background-color: rgb(179, 179, 179));
+                    width: 20%;
+                    height: 250px; 
+                    text-align: center;
+                        }  
+                        .info4  {
+                            background: #fff;
+    border-radius: 5px;
+    text-align: center;
+    
+                            background-color: rgb(179, 179, 179));
+                            width: 20%;
+                            height: 250px; 
+                                }  
+                                .infos {
+                                    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+   
+          }
+.info1,.info2,.info3,.info4 {
+    width: 40%;
+}          
+     .info1 h3{
+color:#00b39b;
+
+   }
+   .info2 h3{
+    color:#00b39b;
+    
+       }
+       .info3 h3{
+        color:#00b39b;
+        
+           }
+           .info4 h3{
+            color:#00b39b;
+            
+               }
+               .okk{margin: auto;
+                   padding-top: 50px;}
+               .okk h4 {
+                   color: #747474;
+               }
+               .infos {
+                display: flex;
+                margin:5%;
+                flex-wrap:wrap;
+                width: 40%;
+               }
+               
+               .ok h3 {
+                   color: #00b39b;
+               }
+               .m h2 {
+                   color: #00b39b;
+                   margin-left: 35% ;
+                   margin-right: 35% ;
+                   font-family: Work Sans,Arial,sans-serif;
+                       }
+                       .m h5 {
+                        color: #747474;
+                        margin-left: 35% ;
+                        margin-right: 35% ;
+                            }
+                            .image {
+                               margin-left: 47%;
+                               margin-right: 47%;
+                            }
+                            .okk {
+                                width: 30%;
+                                margin-right: 20%;
+                            }
+                            
+                            .fin {
+                                margin-left: 38%;
+                                margin-right: 38%;
+                                margin-top: 5%;
+                             }
+                             .fin h2 {
+                                color: #333;
+                             }
+.column {
+    margin-right: 5%;
+    margin-left: 5%
+}
+.imagee img {
+    margin-left: 30%;
+    width: 50%;
+}
